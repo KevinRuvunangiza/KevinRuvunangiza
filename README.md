@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋
 
-I'm a software engineer passionate about building user-friendly web and mobile experiences. My main focus is **front-end development** with **React.js**, but I also work with **React Native** for mobile apps.  
+I'm a software engineer passionate about building user friendly web and mobile experiences. My main focus is **front-end development** with **React.js**, but I also work with **React Native** for mobile apps.  
 
 I enjoy creating interactive, performant, and visually appealing interfaces, and I love exploring the latest in web technologies. My go-to stack is **MERN**, but I’m constantly learning and experimenting to improve my craft.  
 
@@ -19,4 +19,4 @@ I'm currently building **[StudentOS](https://studentoss.netlify.app/)**, a SaaS 
 - Sharing knowledge and building useful projects
 - Boxing 
 
-Feel free to explore my repositories or reach out—I'm always open to collaboration and new ideas!
+Feel free to explore my repositories or reach out I'm always open to collaboration and new ideas!
